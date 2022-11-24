@@ -2,15 +2,15 @@
 Used React (redux, hooks, router)
 ## Todo:
 - you can create new paragraph, change, delete and check existing
-### Home: 
+## Home: 
 - click to upload new image from your device
 #### Settings: 
 - you can change the theme of app
-##### Products:
+## Products:
 - filter of products 
-###### Buttons: 
+## Buttons: 
 - slider
-####### FilterText:
+##FilterText:
 - filter of list
-######## SearchImage:
+## SearchImage:
 - add some text and click button to find data from API with pagination
